@@ -1,0 +1,25 @@
+{
+  "name": "statsd-blink1-backend",
+  "description": "A backend for StatsD to react to stats by changing the colors on a blink1 device",
+  "author": {
+    "name": "Kolja Markwardt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "0.7.x"
+  },
+  "engine": {
+    "node": ">=0.4"
+  },
+  "main": "statsd-blink1-backend/index.js",
+  "readmeFilename": "README.md",
+  "homepage": "tbd",
+  "_id": "statsd-blink1-backend@0.0.1",
+  "_from": "statsd-blink1-backend@~0.0.1"
+}
