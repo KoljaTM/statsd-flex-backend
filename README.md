@@ -1,8 +1,8 @@
-# StatsD blink1 backend 
+# StatsD flexible backend 
 
 ## Overview
 This is a pluggable backend for [StatsD](https://github.com/etsy/statsd), which
-reacts to statsd events by sending signals to a [blink1](http://blink1.thingm.com/) device
+reacts to statsd events.
 
 ## Installation
 

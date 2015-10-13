@@ -1,6 +1,6 @@
 {
-  "name": "statsd-blink1-backend",
-  "description": "A backend for StatsD to react to stats by changing the colors on a blink1 device",
+  "name": "statsd-flex-backend",
+  "description": "A backend for StatsD to react to stats",
   "author": {
     "name": "Kolja Markwardt"
   },
@@ -17,9 +17,9 @@
   "engine": {
     "node": ">=0.4"
   },
-  "main": "statsd-blink1-backend/index.js",
+  "main": "statsd-flex-backend/index.js",
   "readmeFilename": "README.md",
   "homepage": "tbd",
-  "_id": "statsd-blink1-backend@0.0.1",
-  "_from": "statsd-blink1-backend@~0.0.1"
+  "_id": "statsd-flex-backend@0.0.1",
+  "_from": "statsd-flex-backend@~0.0.1"
 }
